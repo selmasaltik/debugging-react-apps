@@ -1,6 +1,5 @@
 # debugging-react-apps
 
-**Debugging React Apps**
 ***Finding & Fixing Errors***
 
 - Making Sense of **React Error Messages**
